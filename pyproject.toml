@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "agent0"
+version = "0.1.0"
+description = ""
+authors = ["Jeremy Page <116579445+jkpage00@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
